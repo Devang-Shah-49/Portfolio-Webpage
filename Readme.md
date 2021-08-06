@@ -1,6 +1,8 @@
 # Build a Portfolio
 I have build a responsive website that neatly displays an individual's portfolio.
 
+Deployed Website: https://portfoliobydevang.netlify.app/
+
 # Files Included
 
 * index.html
@@ -11,7 +13,8 @@ I have build a responsive website that neatly displays an individual's portfolio
 
 # Creator
 This Website is created by Devang Shah.
-Clone it using: https://github.com/Devang-Shah-49/PortFolio-WebSite.git
+
+Clone it using: https://github.com/Devang-Shah-49/Portfolio-Webpage.git
 
 # What is Version Control?
 When we are working on a big project, it is extremely important to store all the changes that are being made to recall it at a later stage. Version Control Systems are software tools that help with it. They keep track of all the modifications that happen over time in the source code as versions. They also allow us to go through older versions and revert to an old version if required.
